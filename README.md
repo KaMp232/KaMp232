@@ -51,4 +51,4 @@ Hi friend!
 </div>
 ---
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=KaMp232
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NikitaMaika&locale=ru)](https://git.io/streak-stats)
