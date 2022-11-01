@@ -22,7 +22,7 @@ Hi friend!
 <div align="center">
   <img src="https://media.giphy.com/media/ocXjZoA4Eg6D01QA3r/giphy.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About MЕ
+### :woman_technologist:   About MЕ
 
 - :I play football :whale2:
 
