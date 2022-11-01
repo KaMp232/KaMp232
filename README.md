@@ -30,7 +30,7 @@ Hi friend!
 - :I  watch football :monkey_face:
 
 - :Sportsman  💪
-- 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 - <div>
